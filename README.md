@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Abhinav Saxena</h1>
-<h3 align="center">Passionate Data Scientist & Frontend Developer</h3>
+<h3 align="center">Passionate Data Scientist</h3>
 
-- 💻 I’m currently learning **Mern Stack and ML**
+- 💻 I’m currently learning **ML,DL,GenAI**
 
 - 📫 How to reach me **saxenaabhinav113@gmail.com**
 
