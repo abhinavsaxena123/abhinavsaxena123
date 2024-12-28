@@ -17,9 +17,17 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Abhinav Saxena</h1>
 <h3 align="center">Passionate Data Scientist</h3>
 
-- 💻 I’m currently learning **ML,DL,GenAI**
+- 🌱 Passionate about Data Science and Machine Learning. "Learning Makes Me Happy"
+  
+- 💻 I’m currently learning **LLM, GenAI, Java**
 
-- 📫 How to reach me **saxenaabhinav113@gmail.com**
+- 📫 How to reach me: **saxenaabhinav113@gmail.com**
+
+- 💫 2025 Goals:
+  * Practice LeetCode
+  * Learn Data Science Workflow with model deployment and monitoring.
+  * Learn Cloud Platforms (AWS, GCP)
+  * Learn Java
 
 
 <p align="left">
