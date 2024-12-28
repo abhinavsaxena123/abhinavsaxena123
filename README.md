@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://github.com/abhinavsaxena123/abhinavsaxena123/blob/main/pycharm.png" alt="seaborn" width="40" height="40"/> </a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/abhinavsaxena123/abhinavsaxena123/blob/main/jupyter.png" alt="seaborn" width="40" height="40"/> </a>
 <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/abhinavsaxena123/abhinavsaxena123/blob/main/colab.png" alt="seaborn" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/abhinavsaxena123/abhinavsaxena123/blob/main/colab.png" alt="seaborn" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/abhinavsaxena123/abhinavsaxena123/blob/main/tensorflow.png" alt="seaborn" width="40" height="40"/> </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/abhinavsaxena123/abhinavsaxena123/blob/main/colab.png" alt="seaborn" width="40" height="40"/> </a>
 <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer"> <img src="https://github.com/abhinavsaxena123/abhinavsaxena123/blob/main/r-studio.png" alt="seaborn" width="40" height="40"/> </a> 
 
