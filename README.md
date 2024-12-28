@@ -33,6 +33,7 @@ Here are some ideas to get you started:
   * Learn Data Science Workflow with model deployment and monitoring.
   * Learn Cloud Platforms (AWS, GCP)
   * Learn Java
+  * Learn BI Tools (Power BI, Tableau)
 
 
 <p align="left">
