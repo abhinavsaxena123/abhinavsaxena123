@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src=""/>
+<div align="center">
+  <img src="https://github.com/abhinavsaxena123/abhinavsaxena123/blob/main/Data%20scientist2.gif" width="300" height="190" alt="Data Scientist GIF"/>
+</div>
+
   
 <h1 align="center">Hi 👋, I'm Abhinav Saxena</h1>
 <h3 align="center">Passionate Data Scientist</h3>
