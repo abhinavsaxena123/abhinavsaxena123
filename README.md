@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://github.com/abhinavsaxena123/abhinavsaxena123/blob/main/pycharm.png" alt="seaborn" width="40" height="40"/> </a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/abhinavsaxena123/abhinavsaxena123/blob/main/jupyter.png" alt="seaborn" width="40" height="40"/> </a>
-<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/abhinavsaxena123/abhinavsaxena123/blob/main/pycharm.png" alt="seaborn" width="40" height="40"/> </a> </p>
+<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/abhinavsaxena123/abhinavsaxena123/blob/main/colab.png" alt="seaborn" width="40" height="40"/> </a> </p>
 
 ____
 
