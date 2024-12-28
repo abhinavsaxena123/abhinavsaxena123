@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src=""/>
+  
 <h1 align="center">Hi 👋, I'm Abhinav Saxena</h1>
 <h3 align="center">Passionate Data Scientist</h3>
 
