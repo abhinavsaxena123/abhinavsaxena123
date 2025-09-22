@@ -24,16 +24,10 @@ Here are some ideas to get you started:
 
 - 🌱 Passionate about Data Science and Machine Learning. "Learning Makes Me Happy"
   
-- 💻 I’m currently learning **LLM, GenAI, Java**
+- 💻 I’m currently learning **Agentic AI, Gen AI**
 
 - 📫 How to reach me: **saxenaabhinav113@gmail.com** 
 
-- 💫 2025 Goals:
-  * Practice LeetCode
-  * Learn Data Science Workflow with model deployment and monitoring.
-  * Learn Cloud Platforms (AWS, GCP)
-  * Learn Java
-  * Learn BI Tools (Power BI, Tableau)
 
 
 <p align="left">
